@@ -4,7 +4,8 @@
   "description": "My learnyounode samples",
   "main": "async-io.js",
   "dependencies": {
-    "concat-stream": "^1.5.0"
+    "concat-stream": "^1.5.0",
+    "through2-map": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
