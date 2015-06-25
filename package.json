@@ -1,0 +1,23 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "My learnyounode samples",
+  "main": "async-io.js",
+  "dependencies": {
+    "concat-stream": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novac182/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novac182/learnyounode/issues"
+  },
+  "homepage": "https://github.com/novac182/learnyounode#readme"
+}

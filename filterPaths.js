@@ -13,9 +13,6 @@ module.exports = function (filePath, fileFilter, callback) {
 			return path.extname(file) === '.' + fileFilter;
 		});
 
-		console.log('x');
-		console.log(fils)
-
 		callback(null, result);
 	}
 }
